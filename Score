@@ -1,0 +1,51 @@
+* Code compiles
+* Code runs and brings up a window
+* At least some of the palette is being drawn
+* The palette behaves correctly when the window is resized
+* All team members show repository activity
+-------------------------------------------------------------------------------
+Notes:
+
+   * For the second checkpoint, all of the first checkpoint's items must be
+     maintained (i.e. no regressions).  Modifications to the first checkpoint's
+     items are:
+
+        * Code compiles without warnings using compiler flag -Wall
+        * Code runs and brings up a window and does not leak memory for this
+          sequence:  Run, bring up window, exit by pressing ESC key
+        * All members show repository activity and the repository is in good
+          order (i.e. no binary files, good commit messages)
+-------------------------------------------------------------------------------
+Checkpoint 1:  5%/5%  [git checkout 4a358afdf79]
+
+  * Good job getting after this early.  Keep it up.
+
+  * Window resizes smoothly
+
+  * So far so good.
+
+-------------------------------------------------------------------------------
+Checkpoint 2:    5%/5%  [git checkout 6e5f6e03b48]
+
+* All requirements of the first checkpoint (no regressions)
+* Full palette displayed
++ Source has documented function headers
+* Can select border and fill colors
+* Can draw (at least) a single shape with (above) border and fill color
+
+
+   * Why did you remove the Score sheet?
+
+   * Still some work to do.  Selecting a tool erases part of the palette
+  
+   * Square is drawn with selected color but can not be sized.
+
+   * Shapes disappear when window is resized
+
+   * Good balance in the repo activity
+
+   * Inconsistent indentation and vertical whitespacing
+
+   * Fairly consistent effort.  Keep it up, don't leave things until the
+     last day or so.
+
