@@ -2,6 +2,7 @@
 CSC 315: Data Structures & Algorithms<br/>
 Fall 2019<br/>
 Authors: Minati Alphonso & Sterling McKenzie<br/>
+Skills: C++, OpenGL
 ## Overview
 OOP example illustrating inheritance and late binding via virtual functions in C++. Inheritance is used to derive various shape classes (Circle, Rectangle, Square) from a base Shape class.<br/>
 
